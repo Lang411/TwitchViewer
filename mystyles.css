@@ -1,7 +1,39 @@
 body {
 	background-image: url('file:///C:/Users/lkenney/Desktop/CODE/Local%20Weather/03994_bixbybridgehazydusk_1600x900.jpg');
-
 }
 h1 {
-	color:blue;
+	color:purple;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#nav {
+	height:700px;
+	background:white !important;
+	border-style: solid;
+    border-width: 5px;
+	text-align:center;
+}
+
+#streamers{
+	height:700px;
+	background:white !important;
+	text-align:center;
+	border-style: solid;
+    border-width: 5px;
+}
+
+#logo {
+	height:256px;
+	background-color:#6B3E81;
+	text-align:center;
+	margin-bottom:15px;
+}
+
+.btn {
+	width:100%;
+	margin-bottom:5px;
+}
+
+ul {
+	font-size: 400%;
 }
